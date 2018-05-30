@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DriveAssister</string>
+    <string name="action_settings">Settings</string>
+    <string name="SafeModeOn">SafeModeOn</string>
+    <string name="SafeModeOff">SafeModeOff</string>
+    <string name="title_activity_call_log">CallLogActivity</string>
+</resources>
